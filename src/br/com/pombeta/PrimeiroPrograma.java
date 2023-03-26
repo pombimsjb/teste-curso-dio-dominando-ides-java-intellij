@@ -1,6 +1,6 @@
-package br.com.dio;
+package br.com.pombeta;
 
-import br.com.dio.model.Gato;
+import br.com.pombeta.model.Gato;
 
 public class PrimeiroPrograma {
     //Para criar o método main basta digitar main e dar TAB
