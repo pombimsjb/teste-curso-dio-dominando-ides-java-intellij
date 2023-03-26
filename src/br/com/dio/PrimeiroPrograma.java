@@ -13,9 +13,9 @@ public class PrimeiroPrograma {
         // Após rodar a primeira vez basta utilizar o atalho SHIFT + f10
         CTRL + SHIFT + / -> Para comentar todo o bloco*/
         Gato gato = new Gato();
-        gato.setCor("Vermelho");
-        gato.setIdade(15);
-        gato.setNome("Roberval");
+        gato.setCor("Azul");
+        gato.setIdade(12);
+        gato.setNome("Bastião");
         System.out.println(gato);
     }
 }
